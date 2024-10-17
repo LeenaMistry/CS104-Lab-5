@@ -1,0 +1,31 @@
+div{background-color: blueviolet;}
+p{background-color: aqua;}
+a{background-color: brown;}
+
+.Box{height: 200px; width:300px}
+
+.responsive-Box{height: 50%; width:50%}
+
+.padded-text{padding: 20px;}
+
+.border-box{border:solid;border-color:black; border-width: 2px;}
+
+.rounded-border{border-style: dotted; border-width: 3px; border-radius: 15px;
+}
+.margin-text{margin: 30px;}
+
+.custom-margin{margin-top: 20 ;margin-bottom: 20;margin-left: 40;margin-right: 40;}
+
+.inline-element{display:inline;}
+
+.block-element{display:block}
+
+.inline-block-element{display:inline-block}
+
+.hidden-element{display: none}
+
+.visible-element{display: visible}
+
+.invisible-element{display: hidden}
+
+.transparent-box{background-color: rgb(57, 57, 132,.5);}
